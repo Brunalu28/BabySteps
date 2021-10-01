@@ -17,3 +17,5 @@
 “O talento nos é dado, mas é o trabalho que o transforma em genialidade.” - Anna Pavlova
 
 "Quando o mundo inteiro está em silêncio, até mesmo uma só voz se torna poderosa." - Malala Yousafzai
+
+"Ninguém pode nos fazer sentir inferiores sem nosso consentimento." - Eleanor Roosevelt
